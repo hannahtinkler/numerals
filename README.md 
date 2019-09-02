@@ -1,0 +1,7 @@
+# Roman Numeral Converter
+
+## Installation
+1. Run `composer install`
+
+## Running the test
+1. Run `./vendor/bin/phpunit`
